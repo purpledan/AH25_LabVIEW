@@ -38,18 +38,6 @@
 			<Item Name="LCR_AutoChangeUnits.vi" Type="VI" URL="../Sources/LCR_AutoChangeUnits.vi"/>
 			<Item Name="Profile_ReadGUI.vi" Type="VI" URL="../Sources/Profile_ReadGUI.vi"/>
 		</Item>
-		<Item Name="HM8118 Aux" Type="Folder">
-			<Item Name="LCR_ReadAll.vi" Type="VI" URL="../Sources/LCR_ReadAll.vi"/>
-			<Item Name="LCR_ReadMType.vi" Type="VI" URL="../Sources/LCR_ReadMType.vi"/>
-			<Item Name="LCR_SelectiveWriter.vi" Type="VI" URL="../Sources/LCR_SelectiveWriter.vi"/>
-			<Item Name="LCR_SelectWrite.vi" Type="VI" URL="../Sources/LCR_SelectWrite.vi"/>
-			<Item Name="LCR_SendAll.vi" Type="VI" URL="../Sources/LCR_SendAll.vi"/>
-			<Item Name="LCR_WriteBias.vi" Type="VI" URL="../Sources/LCR_WriteBias.vi"/>
-			<Item Name="LCR_WriteConfigMeas.vi" Type="VI" URL="../Sources/LCR_WriteConfigMeas.vi"/>
-			<Item Name="LCR_WriteIntegration.vi" Type="VI" URL="../Sources/LCR_WriteIntegration.vi"/>
-			<Item Name="LCR_WriteSignal.vi" Type="VI" URL="../Sources/LCR_WriteSignal.vi"/>
-			<Item Name="LCR_WriteTrigger.vi" Type="VI" URL="../Sources/LCR_WriteTrigger.vi"/>
-		</Item>
 		<Item Name="Plotting" Type="Folder">
 			<Item Name="LCR_BundleForPlot.vim" Type="VI" URL="../Sources/LCR_BundleForPlot.vim"/>
 			<Item Name="LCR_PlotHelper.vi" Type="VI" URL="../Sources/LCR_PlotHelper.vi"/>
@@ -97,6 +85,9 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="LCR_ReadAll.vi" Type="VI" URL="../Sources/LCR_ReadAll.vi"/>
+			<Item Name="LCR_ReadMType.vi" Type="VI" URL="../Sources/LCR_ReadMType.vi"/>
+			<Item Name="LCR_SendAll.vi" Type="VI" URL="../Sources/LCR_SendAll.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
