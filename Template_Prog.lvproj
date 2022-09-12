@@ -49,6 +49,7 @@
 			<Item Name="Profile_Write.vi" Type="VI" URL="../Sources/Profile_Write.vi"/>
 			<Item Name="Untitled 4.vi" Type="VI" URL="../Sources/Untitled 4.vi"/>
 		</Item>
+		<Item Name="AH_OPEN.vi" Type="VI" URL="../Sources/AH_OPEN.vi"/>
 		<Item Name="LCR_FileCheck.vi" Type="VI" URL="../Sources/LCR_FileCheck.vi"/>
 		<Item Name="LCR_GetGlobals.vi" Type="VI" URL="../Sources/LCR_GetGlobals.vi"/>
 		<Item Name="LCR_Main.vi" Type="VI" URL="../LCR_Main.vi"/>
@@ -83,6 +84,7 @@
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="LCR_ReadAll.vi" Type="VI" URL="../Sources/LCR_ReadAll.vi"/>
