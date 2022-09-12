@@ -49,11 +49,11 @@
 			<Item Name="Profile_Write.vi" Type="VI" URL="../Sources/Profile_Write.vi"/>
 			<Item Name="Untitled 4.vi" Type="VI" URL="../Sources/Untitled 4.vi"/>
 		</Item>
+		<Item Name="AH25_Main.vi" Type="VI" URL="../AH25_Main.vi"/>
+		<Item Name="AH_FileCheck.vi" Type="VI" URL="../Sources/AH_FileCheck.vi"/>
+		<Item Name="AH_GetGlobals.vi" Type="VI" URL="../Sources/AH_GetGlobals.vi"/>
 		<Item Name="AH_OPEN.vi" Type="VI" URL="../Sources/AH_OPEN.vi"/>
-		<Item Name="LCR_FileCheck.vi" Type="VI" URL="../Sources/LCR_FileCheck.vi"/>
-		<Item Name="LCR_GetGlobals.vi" Type="VI" URL="../Sources/LCR_GetGlobals.vi"/>
-		<Item Name="LCR_Main.vi" Type="VI" URL="../LCR_Main.vi"/>
-		<Item Name="LCR_OpenFile.vi" Type="VI" URL="../Sources/LCR_OpenFile.vi"/>
+		<Item Name="AH_OpenFile.vi" Type="VI" URL="../Sources/AH_OpenFile.vi"/>
 		<Item Name="Measurement_Cluster.ctl" Type="VI" URL="../Sources/Measurement_Cluster.ctl"/>
 		<Item Name="Mode_Enum.ctl" Type="VI" URL="../Sources/Mode_Enum.ctl"/>
 		<Item Name="Plotting-Axis.ctl" Type="VI" URL="../Sources/Plotting-Axis.ctl"/>
@@ -88,7 +88,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="LCR_ReadAll.vi" Type="VI" URL="../Sources/LCR_ReadAll.vi"/>
-			<Item Name="LCR_ReadMType.vi" Type="VI" URL="../Sources/LCR_ReadMType.vi"/>
 			<Item Name="LCR_SendAll.vi" Type="VI" URL="../Sources/LCR_SendAll.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
