@@ -11,14 +11,24 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AHCommands" Type="Folder">
-			<Item Name="CMD_Folder" Type="Folder"/>
+			<Item Name="CMD_Folder" Type="Folder">
+				<Item Name="AH_CmdAVG.vi" Type="VI" URL="../Sources/AH_CmdAVG.vi"/>
+				<Item Name="AH_CmdCABLE.vi" Type="VI" URL="../Sources/AH_CmdCABLE.vi"/>
+				<Item Name="AH_CmdFORMAT.vi" Type="VI" URL="../Sources/AH_CmdFORMAT.vi"/>
+				<Item Name="AH_CmdSRE.vi" Type="VI" URL="../Sources/AH_CmdSRE.vi"/>
+				<Item Name="AH_CmdUNIT.vi" Type="VI" URL="../Sources/AH_CmdUNIT.vi"/>
+				<Item Name="AH_CmdVOLT.vi" Type="VI" URL="../Sources/AH_CmdVOLT.vi"/>
+			</Item>
 			<Item Name="CMD_Helpers" Type="Folder">
 				<Item Name="AH_EvalSTB.vi" Type="VI" URL="../Sources/AH_EvalSTB.vi"/>
 				<Item Name="AH_GetSTB.vi" Type="VI" URL="../Sources/AH_GetSTB.vi"/>
 				<Item Name="AH_PreCMD.vim" Type="VI" URL="../Sources/AH_PreCMD.vim"/>
 				<Item Name="AH_SND.vi" Type="VI" URL="../Sources/AH_SND.vi"/>
 				<Item Name="AH_SRQHalt.vi" Type="VI" URL="../Sources/AH_SRQHalt.vi"/>
+				<Item Name="Commands.ctl" Type="VI" URL="../Sources/Commands.ctl"/>
 			</Item>
+			<Item Name="AH_CMD.vi" Type="VI" URL="../Sources/AH_CMD.vi"/>
+			<Item Name="AH_GetMSG.vi" Type="VI" URL="../Sources/AH_GetMSG.vi"/>
 		</Item>
 		<Item Name="Clusters" Type="Folder">
 			<Item Name="Config_Cluster.ctl" Type="VI" URL="../Sources/Config_Cluster.ctl"/>
@@ -62,6 +72,7 @@
 		<Item Name="AH25_Main.vi" Type="VI" URL="../AH25_Main.vi"/>
 		<Item Name="AH_FileCheck.vi" Type="VI" URL="../Sources/AH_FileCheck.vi"/>
 		<Item Name="AH_GetGlobals.vi" Type="VI" URL="../Sources/AH_GetGlobals.vi"/>
+		<Item Name="AH_msgTEST.vi" Type="VI" URL="../Sources/AH_msgTEST.vi"/>
 		<Item Name="AH_OPEN.vi" Type="VI" URL="../Sources/AH_OPEN.vi"/>
 		<Item Name="AH_OpenFile.vi" Type="VI" URL="../Sources/AH_OpenFile.vi"/>
 		<Item Name="Measurement_Cluster.ctl" Type="VI" URL="../Sources/Measurement_Cluster.ctl"/>
