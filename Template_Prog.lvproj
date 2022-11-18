@@ -22,13 +22,22 @@
 			<Item Name="CMD_Helpers" Type="Folder">
 				<Item Name="AH_EvalSTB.vi" Type="VI" URL="../Sources/AH_EvalSTB.vi"/>
 				<Item Name="AH_GetSTB.vi" Type="VI" URL="../Sources/AH_GetSTB.vi"/>
+				<Item Name="AH_PreCMD.vi" Type="VI" URL="../Sources/AH_PreCMD.vi"/>
 				<Item Name="AH_PreCMD.vim" Type="VI" URL="../Sources/AH_PreCMD.vim"/>
 				<Item Name="AH_SND.vi" Type="VI" URL="../Sources/AH_SND.vi"/>
 				<Item Name="AH_SRQHalt.vi" Type="VI" URL="../Sources/AH_SRQHalt.vi"/>
 				<Item Name="Commands.ctl" Type="VI" URL="../Sources/Commands.ctl"/>
 			</Item>
+			<Item Name="READ_Helpers" Type="Folder">
+				<Item Name="AH_GetMSG.vi" Type="VI" URL="../Sources/AH_GetMSG.vi"/>
+				<Item Name="AH_ParseMSG.vi" Type="VI" URL="../Sources/AH_ParseMSG.vi"/>
+			</Item>
+			<Item Name="Setup_Blocks" Type="Folder">
+				<Item Name="AH_PreSET.vi" Type="VI" URL="../Sources/AH_PreSET.vi"/>
+			</Item>
 			<Item Name="AH_CMD.vi" Type="VI" URL="../Sources/AH_CMD.vi"/>
-			<Item Name="AH_GetMSG.vi" Type="VI" URL="../Sources/AH_GetMSG.vi"/>
+			<Item Name="AH_MEAS.vi" Type="VI" URL="../Sources/AH_MEAS.vi"/>
+			<Item Name="AH_TRG.vi" Type="VI" URL="../Sources/AH_TRG.vi"/>
 		</Item>
 		<Item Name="Clusters" Type="Folder">
 			<Item Name="Config_Cluster.ctl" Type="VI" URL="../Sources/Config_Cluster.ctl"/>
