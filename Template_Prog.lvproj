@@ -79,6 +79,7 @@
 			<Item Name="Untitled 4.vi" Type="VI" URL="../Sources/Untitled 4.vi"/>
 		</Item>
 		<Item Name="AH25_Main.vi" Type="VI" URL="../AH25_Main.vi"/>
+		<Item Name="AH_CmdTRK.vi" Type="VI" URL="../Sources/AH_CmdTRK.vi"/>
 		<Item Name="AH_FileCheck.vi" Type="VI" URL="../Sources/AH_FileCheck.vi"/>
 		<Item Name="AH_GetGlobals.vi" Type="VI" URL="../Sources/AH_GetGlobals.vi"/>
 		<Item Name="AH_msgTEST.vi" Type="VI" URL="../Sources/AH_msgTEST.vi"/>
@@ -120,7 +121,6 @@
 				<Item Name="Wait for RQS.vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/Wait for RQS.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="LCR_ReadAll.vi" Type="VI" URL="../Sources/LCR_ReadAll.vi"/>
 			<Item Name="LCR_SendAll.vi" Type="VI" URL="../Sources/LCR_SendAll.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
