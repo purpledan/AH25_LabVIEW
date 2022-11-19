@@ -91,9 +91,6 @@
 		<Item Name="Status_Byte.ctl" Type="VI" URL="../Sources/Status_Byte.ctl"/>
 		<Item Name="UnitEnum.ctl" Type="VI" URL="../Sources/UnitEnum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Hameg HM8118.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Hameg HM8118/Hameg HM8118.lvlib"/>
-			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -121,7 +118,6 @@
 				<Item Name="Wait for RQS.vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/Wait for RQS.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="LCR_SendAll.vi" Type="VI" URL="../Sources/LCR_SendAll.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
