@@ -16,6 +16,7 @@
 				<Item Name="AH_CmdCABLE.vi" Type="VI" URL="../Sources/AH_CmdCABLE.vi"/>
 				<Item Name="AH_CmdFORMAT.vi" Type="VI" URL="../Sources/AH_CmdFORMAT.vi"/>
 				<Item Name="AH_CmdSRE.vi" Type="VI" URL="../Sources/AH_CmdSRE.vi"/>
+				<Item Name="AH_CmdTRK.vi" Type="VI" URL="../Sources/AH_CmdTRK.vi"/>
 				<Item Name="AH_CmdUNIT.vi" Type="VI" URL="../Sources/AH_CmdUNIT.vi"/>
 				<Item Name="AH_CmdVOLT.vi" Type="VI" URL="../Sources/AH_CmdVOLT.vi"/>
 			</Item>
@@ -79,7 +80,7 @@
 			<Item Name="Untitled 4.vi" Type="VI" URL="../Sources/Untitled 4.vi"/>
 		</Item>
 		<Item Name="AH25_Main.vi" Type="VI" URL="../AH25_Main.vi"/>
-		<Item Name="AH_CmdTRK.vi" Type="VI" URL="../Sources/AH_CmdTRK.vi"/>
+		<Item Name="AH_ERRtoSTR.vi" Type="VI" URL="../Sources/AH_ERRtoSTR.vi"/>
 		<Item Name="AH_FileCheck.vi" Type="VI" URL="../Sources/AH_FileCheck.vi"/>
 		<Item Name="AH_GetGlobals.vi" Type="VI" URL="../Sources/AH_GetGlobals.vi"/>
 		<Item Name="AH_msgTEST.vi" Type="VI" URL="../Sources/AH_msgTEST.vi"/>
@@ -114,6 +115,7 @@
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="VISA Event Mechanism.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Event Mechanism.ctl"/>
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="Wait for RQS.vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/Wait for RQS.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
